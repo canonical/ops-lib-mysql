@@ -11,7 +11,7 @@ To use this interface in your
 [Juju Operator Framework](https://github.com/canonical/operator) charm,
 instruct [charmcraft](https://github.com/canonical/charmcraft) to embed
 it into your built Operator Framework charm by adding ops-lib-mysql to
-your `requirements.txt` file::
+your `requirements.txt` file:
 
 ```
 ops
